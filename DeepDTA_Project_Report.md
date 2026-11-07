@@ -4,13 +4,7 @@
 > Based on the research paper: Öztürk, H., Özgür, A. and Ozkirimli, E.
 > (2018), *DeepDTA: Deep Drug--Target Binding Affinity Prediction*,
 > **Bioinformatics**.
->
-> **Project status:** Prototype development\
-> **Repository:** Add your GitHub repository URL here\
-> **Team / Author:** Add names here\
-> **Date:** Add submission date here
-
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 ## 1. Project Overview
 
